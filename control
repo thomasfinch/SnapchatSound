@@ -1,0 +1,9 @@
+Package: com.thomasfinch.snapchatsound
+Name: Snapchat Sound
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enables sound for Snapchat notifications
+Maintainer: Thomas Finch
+Author: Thomas Finch
+Section: Tweaks
